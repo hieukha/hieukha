@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hieu Kha
 
-🎓 Graduated from Saigon International University (full 4-year Scholarship)
+🎓 International University (full 4-year Scholarship)
 🤖 Passionate about NLP, RAG, and Generative AI  
 💼 Former AI Intern at SIU AI Lab  
 📘 Published author: *VizQuest – Enhanced Video Event Retrieval using Fusion and Temporal Modeling*  
